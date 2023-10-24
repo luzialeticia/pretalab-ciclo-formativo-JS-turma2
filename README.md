@@ -1,7 +1,7 @@
 # [PretaLab - Ciclo Formativo Básico em Tecnologia]
 ## Módulo Javascript
 
-Repositório é voltado ao módulo de Javascript.
+Repositório voltado ao módulo de Javascript.
 
 ---
 ## Planejamento 
