@@ -67,3 +67,8 @@ let pessoa = "Letícia", idade = "32", signo = "Aquário";
 4. Pratiquem em casa!
     - Em uma nova pasta e novo arquivo, concatene as variáveis que criamos até aqui. Do jeito que você quiser.
     - Em um novo arquivo, crie as seguintes variáveis e em seguida use a criatividade para concatená-las, formando uma frase: primeiro nome; último nome; ano de nascimento; cor preferida; hobby; um sentimento.
+
+E por hoje é isso!!!! Codem bastante em casa e qualquer coisa, gritem hehe.
+<p align="center">
+    <img alt="Gif da Gretchen feliz" src="https://faesadigital.files.wordpress.com/2017/07/giphy4.gif?w=840" width=400 />
+  </p>
