@@ -1,5 +1,7 @@
 # Aula 01
 
+Slides para esta aula [AQUI](https://www.canva.com/design/DAFyMRMyIVo/0_URHpGDlPC5CTNSuOnJsg/view?utm_content=DAFyMRMyIVo&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+
 ## Preparar ambiente
 
 1. Vamos começar baixando e instalando o [Node](https://nodejs.org/en)
