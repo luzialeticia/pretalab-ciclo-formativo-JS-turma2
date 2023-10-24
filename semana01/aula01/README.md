@@ -39,13 +39,37 @@ UHUUUULLLL!!! Já estamos codando em Javascript \o/
 
 1. Vamos criar variáveis!
     - Na mesma pasta em que criamos o `ola-mundo.js`, vamos criar o `variaveis.js`
-    -  Crie 3 variáveis e mostre no console o valor salvo nelas
-    - Declare e insira os valores nas seguintes variáveis ou constantes: Nome do país, Pontos turísticos, Capital do país e Quantidade de estados
+    -  <details>
+        <summary>Crie 3 variáveis e mostre no console o valor salvo nelas</summary>
+
+        ```javascript
+          const nome = "Letícia";
+          const sobrenome = "Luzia";
+          let idade = 32;
+          console.log(nome)
+          console.log(sobrenome)
+          console.log(idade)
+        ```
+
+      </details>
+
+    - <details>
+        <summary>Declare e insira os valores nas seguintes variáveis ou constantes: Nome do país, Pontos turísticos, Capital do país e Quantidade de estados</summary>
+
+        ```javascript
+          const nomePais = "Brasil";
+          let pontosTuristicos = "Cristo Redentor, Ver-o-Peso, Marco Zero";
+          const capitalPais = "Brasília";
+          const quantidadeEstados = 26;
+        ```
+
+      </details>
 
 ````
 Também é possível declarar muitas variáveis em uma declaração:
 let pessoa = "Letícia", idade = "32", signo = "Aquário";
 ````
+
 
 ### Concatenação
 
