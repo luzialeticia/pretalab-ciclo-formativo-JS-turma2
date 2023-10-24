@@ -25,3 +25,22 @@
 4. Hora de rodar nosso código
     - Abra o terminal do Visual Studio Code
     - Digite o seguinte comando: `node ola-mundo.js`
+
+UHUUUULLLL!!! Já estamos codando em Javascript \o/
+  <p align="center">
+    <img alt="Gif da Gretchen feliz" src="https://media.tenor.com/hzQ6Hw6tfkcAAAAd/gretchen-feliz.gif" width=400 />
+  </p>
+
+---
+
+## Variáveis
+
+1. Vamos criar variáveis!
+    - Na mesma pasta em que criamos o `ola-mundo.js`, vamos criar o `variaveis.js`
+    -  Crie 3 variáveis e mostre no console o valor salvo nelas
+    - Declare e insira os valores nas seguintes variáveis ou constantes: Nome do país, Pontos turísticos, Capital do país e Quantidade de estados
+
+````
+Também é possível declarar muitas variáveis em uma declaração:
+let pessoa = "Letícia", idade = "32", signo = "Aquário";
+````
