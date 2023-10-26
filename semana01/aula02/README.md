@@ -82,6 +82,8 @@ E continuando...
 Vamos brincar com as variáveis que criamos até aqui!
 
 1. Quero ver o tamanho da string que criei:
+    [string.length](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/String/length)
+
     ```javascript
     const nomeCompleto = "Letícia Luzia da Silva Furtado"
     console.log(nomeCompleto.length)
@@ -90,31 +92,45 @@ Vamos brincar com as variáveis que criamos até aqui!
     <br>
 
 2. Separar informações de uma string
+    [string.split()](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/String/split)
+
     ```javascript
     let email = "leticialuzia@gmail.com"
     console.log(email.split('@', 1))
     ```
-<p align="center">
-    <img alt="Gif da Gretchen feliz" src="https://www.afinca.org.br/wp-content/uploads/2017/10/atencao.gif" width=100 />
-</p>
+    <p align="center">
+        <img alt="Gif de Atenção" src="https://www.afinca.org.br/wp-content/uploads/2017/10/atencao.gif" width=100 />
+    </p>
 
     Cada caractere é identificado com uma numeração dentro da memória!
-    E essa númeração SEMPRE começa em 0
+    E essa númeração <strong>SEMPRE começa em 0</strong>
+    <br>
 
 3. Quero substituir um trecho do meu nome. Eu posso?
+    [string.replace()](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/String/replace)
+
     ```javascript
     const novoNome = nomeCompleto.replace("Furtado", "Andrade")
     console.log(novoNome)
     ```
 
 4. Eita! Vou precisar tirar meu sobrenome, como eu faço?
+    [string.slice()](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/String/slice)
+
     ```javascript
     const cortaSobrenome = novoNome.slice(0, 23)
     console.log(cortaSobrenome)
     ```
 
 5. E se eu quiser pegar só a primeira parte do meu e-mail, antes do `@`, de outra forma?
+    [string.substr()](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/String/substr)
+
     ```javascript
     let email = "leticialuzia@gmail.com"
     console.log(email.substr(0, 12))
     ```
+---
+Eita como são Javascripters!
+<p align="center">
+    <img alt="Gif dos minions" src="https://miro.medium.com/v2/resize:fit:1000/0*86OBlwuENRBjbAuP.gif" width=400 />
+</p>
