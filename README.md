@@ -6,8 +6,8 @@ Repositório voltado ao módulo de Javascript.
 ---
 ## Planejamento 
 #### [23/out - 28/out] Semana 1 
-- Introdução a Javascript, console.log e variáveis
-    [Slides](https://www.canva.com/design/DAFyMRMyIVo/0_URHpGDlPC5CTNSuOnJsg/view?utm_content=DAFyMRMyIVo&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+- [Introdução a Javascript, console.log e variáveis](/semana01/aula01/)
+    - [Slides](https://www.canva.com/design/DAFyMRMyIVo/0_URHpGDlPC5CTNSuOnJsg/view?utm_content=DAFyMRMyIVo&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 - Manipulação de variáveis, Tipos de Dados
 - Revisão e prática
 
