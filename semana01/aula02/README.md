@@ -31,4 +31,90 @@ E continuando...
 
 ## Tipos de dados
 
+1. Number
+    ```javascript
+    const idade = 32
+    const altura = 1.57
+    const saldoBancario = -30.00
+    ```
+
+2. String
+    ```javascript
+    const nome = "Renata"
+    let email = "renata2023@pretalab.com"
+    ```
+
+3. Boolean
+    ```javascript
+    let gostoDeJs = true
+    const souBrasileira = true
+    const souPernambucana = false
+    ```
+
+4. Objeto
+    ```javascript
+    const professora = {
+        nome: "Letícia",
+        idade: 32,
+        cidade: "Recife",
+        brasileira: true,
+        pernambucana: false
+    }
+    ```
+    - Se eu quiser saber só uma das informações sobre a professora?
+        ```javascript
+        console.log(professora.nome)
+        ```
+
+5. Null
+    ```javascript
+    let souBonita = null
+    ```
+
+6. Undefined
+    ```javascript
+    let aluna
+    console.log(aluna)
+    ```
+
 ### Manipulação de variáveis
+
+Vamos brincar com as variáveis que criamos até aqui!
+
+1. Quero ver o tamanho da string que criei:
+    ```javascript
+    const nomeCompleto = "Letícia Luzia da Silva Furtado"
+    console.log(nomeCompleto.length)
+    ```
+    OBS.: Os espaços também são considerados caracteres
+    <br>
+
+2. Separar informações de uma string
+    ```javascript
+    let email = "leticialuzia@gmail.com"
+    console.log(email.split('@', 1))
+    ```
+<p align="center">
+    <img alt="Gif da Gretchen feliz" src="https://www.afinca.org.br/wp-content/uploads/2017/10/atencao.gif" width=100 />
+</p>
+
+    Cada caractere é identificado com uma numeração dentro da memória!
+    E essa númeração SEMPRE começa em 0
+
+3. Quero substituir um trecho do meu nome. Eu posso?
+    ```javascript
+    const novoNome = nomeCompleto.replace("Furtado", "Andrade")
+    console.log(novoNome)
+    ```
+
+4. Eita! Vou precisar tirar meu sobrenome, como eu faço?
+    ```javascript
+    const cortaSobrenome = novoNome.slice(0, 23)
+    console.log(cortaSobrenome)
+    ```
+
+5. E se eu quiser pegar só a primeira parte do meu e-mail, antes do `@`, de outra forma?
+    ```javascript
+    let email = "leticialuzia@gmail.com"
+    console.log(email.substr(0, 12))
+    ```
