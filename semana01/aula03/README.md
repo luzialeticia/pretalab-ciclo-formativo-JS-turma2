@@ -41,7 +41,7 @@ Crie uma constante chamada **meuNome** e atribua a ela o seu nome.
   * Altere o valor da variável profissão para **desenvolvedora** e tente exibir no console novamente, observe o que acontece.
   * Atribua um novo valor à constante **cidadeNatal** e tente exibir no console novamente, observe o que acontece.
     > Você consegue entender e explicar, com suas palavras, o motivo do erro?
-    
+
   * Crie um objeto com os dados do Estado do Brasil em que você vive, ou que você nasceu. Exemplos de informações que podemos adicionar: Nome, Capital, Região do Brasil,Principal ponto turístico, há quanto tempo você vive nele? O clima é quente? É frio? Tem praia? Fique a vontade para adicionar outras informações pra fazer a gente ficar com mais vontade de conhecer sua terra :).
       
   ---
