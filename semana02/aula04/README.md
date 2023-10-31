@@ -13,6 +13,14 @@ const multiplicacao = 5 * 3;
 const divisao = 24 / 4;
 ```
 
+<details>
+  <summary>Crie duas variáveis: numero1 e numero2, cada uma contendo um valor numérico. Em seguida, crie mais 5 variáveis: soma, subtração, multiplicação, divisão e modulo, que contenha as reespectivas operações usando as variáveis numero1 e numero2</summary>
+
+```javascript
+
+```
+</details>
+
 ### Operadores de Comparação
 
 ```javascript
