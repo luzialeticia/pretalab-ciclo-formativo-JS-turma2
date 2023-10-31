@@ -10,10 +10,11 @@ Repositório voltado ao módulo de Javascript.
     - [Slides](https://www.canva.com/design/DAFyMRMyIVo/0_URHpGDlPC5CTNSuOnJsg/view?utm_content=DAFyMRMyIVo&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 - [Manipulação de variáveis, Tipos de Dados](/semana01/aula02/)
     - [Slides](https://www.canva.com/design/DAFyXgYlRXc/VR70HoJZh4-DICtrnfoiSw/view?utm_content=DAFyXgYlRXc&utm_campaign=designshare&utm_medium=link&utm_source=editor)
-- Revisão e prática
+- [Revisão e prática](/semana01/aula03/)
 
 #### [30/out - 04/nov] Semana 2
-- Operadores Aritméticos, de comparação e lógicos
+- [Operadores Aritméticos, de comparação e lógicos](/semana02/aula04/)
+    [Slides](https://www.canva.com/design/DAFy20BoMGg/FTH7JNVxS6boB0XBJbTjXA/view?utm_content=DAFy20BoMGg&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 - Revisão e prática
 
 #### [06/nov - 11/nov] Semana 3
