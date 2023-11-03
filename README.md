@@ -15,6 +15,8 @@ Repositório voltado ao módulo de Javascript.
 #### [30/out - 04/nov] Semana 2
 - [Operadores Aritméticos, de comparação e lógicos](/semana02/aula04/)
     [Slides](https://www.canva.com/design/DAFy20BoMGg/FTH7JNVxS6boB0XBJbTjXA/view?utm_content=DAFy20BoMGg&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+- [Estruturas condicionais](/semana02/aula05/)
+    [Slides](https://www.canva.com/design/DAFzI0DIJoI/pYu4Nys08MPvBJO-lS2SsQ/view?utm_content=DAFzI0DIJoI&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 - Revisão e prática
 
 #### [06/nov - 11/nov] Semana 3
