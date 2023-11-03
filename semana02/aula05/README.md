@@ -23,3 +23,11 @@ if (hora < 12){
 <details>
   <summary>Crie um programa que receba 2 números, calcule a soma deles e em seguida verifique se essa soma é maior que 100.</summary>
 </details>
+
+<details>
+  <summary>Crie um algoritmo que receba dois números e determine qual é o menor entre eles. Se os números forem iguais, mostre uma mensagem no console "Os números são iguais.</summary>
+</details>
+
+<details>
+  <summary>Elabore um programa que receba uma string com dia da semana e devolva um número (1-7) correspondente ao dia da semana.</summary>
+</details>
