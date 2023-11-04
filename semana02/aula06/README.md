@@ -6,22 +6,30 @@ Hoje nós vamos exercitar!
     <img alt="Gif homem se exercitando" src="https://anamaria.uol.com.br/amp-stories/6-dicas-para-treinar-em-casa/assets/11.gif" width=200 />
 </p>
 
-#### 1. Bora mandar o JS fazer conta pra gente!
+#### 1. Quero imprimir a área e o perímetro de um retângulo.
 <sub>Operadores aritméticos</sub>
 
 Primeiro, vamos escrever nosso algoritmo em PT-BR, nossa receita de bolo
-1. Como calcular a área de um perímetro:
+1. Como calcular a área de um retângulo:
+    - base x altura
+2. E o perímetro:
+    - 2 X (base + altura)
 2. Agora vamos codar essa receita. Como calcular a área de uma perímetro em JS?
 ---
 
-#### 2. Crie uma variável chamada `diaDaSemana` que receba a string `quarta-feira`. Utilizando if/else, implemente condicionais para que:
+#### 2. Crie uma variável chamada `diaDaSemana`. Utilizando if/else, implemente condicionais para que:
 <sub>Estrutura Condicional</sub>
   
 a. Se nossa variável for: "terça-feira", "quinta-feira" ou "sábado", o console.log imprima a seguinte mensagem:
   > Oba, mais um dia de aprendizado em JavaScript
   
-b. Se for algum dia de fim de semana:  
-  > “FINALMENTE, descanso merecido”.
+b. Se for outro dia:  
+  > “Hoje não temos aula. Sdds da prof e da Rê!”.
+
+c. Se não for um dia válido:  
+  > “Esse dia da semana não existe”.
+
+💡 > Dica: Tente escrever o mesmo código usando a estutura `switch-case`.
 
 ---
 
@@ -46,6 +54,8 @@ De acordo com a legislação brasileira, imprima no console 3 opções de frases
 - "O voto é facultativo"
 - "Pessoa não está apta a votar"
 - "Pessoa é obrigada a votar"
+
+💡 > Dica: Depois tente melhorar esse algoritmo. Pesquise outras regras para votar no Brasil (a pessoa ser alfabetizada, ser brasileira nata etc) e incremente no código.
 
 ---
 
