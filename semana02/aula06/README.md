@@ -14,7 +14,7 @@ Primeiro, vamos escrever nosso algoritmo em PT-BR, nossa receita de bolo
 2. Agora vamos codar essa receita. Como calcular a área de uma perímetro em JS?
 ---
 
-#### 2. Crie uma variável chamada `diaDaSemana` que receba a string `quarta-feira`. Utilizando if/else, implemente condicionais para que:
+#### 2. Crie uma variável chamada `diaDaSemana`. Utilizando if/else, implemente condicionais para que:
 <sub>Estrutura Condicional</sub>
   
 a. Se nossa variável for: "terça-feira", "quinta-feira" ou "sábado", o console.log imprima a seguinte mensagem:
