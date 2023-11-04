@@ -25,12 +25,15 @@ const alunaAcademia = {
     bebe: true,
     tempoPraticaAtividadesFisicas: 2,
     //nomeCompleto: `${this.nome} ${this.sobrenome}`
+    nomeCompleto: function() { 
+        return `${this.nome} ${this.nomeDoMeio} ${this.sobrenome}`
+    },
 }
 
-const nomeCompleto = `${alunaAcademia.nome} ${alunaAcademia.nomeDoMeio} ${alunaAcademia.sobrenome}`
+//const nomeCompleto = `${alunaAcademia.nome} ${alunaAcademia.nomeDoMeio} ${alunaAcademia.sobrenome}`
 
-console.log(nomeCompleto)
-console.log(nomeCompleto.length)
+console.log(alunaAcademia.nomeCompleto())
+//console.log(nomeCompleto.length)
 
 let emailAluna = alunaAcademia.emailDaAcademia
 console.log(emailAluna)
