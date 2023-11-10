@@ -17,11 +17,13 @@ Repositório voltado ao módulo de Javascript.
     [Slides](https://www.canva.com/design/DAFy20BoMGg/FTH7JNVxS6boB0XBJbTjXA/view?utm_content=DAFy20BoMGg&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 - [Estruturas condicionais](/semana02/aula05/)
     [Slides](https://www.canva.com/design/DAFzI0DIJoI/pYu4Nys08MPvBJO-lS2SsQ/view?utm_content=DAFzI0DIJoI&utm_campaign=designshare&utm_medium=link&utm_source=editor)
-- Revisão e prática
+- [Revisão e prática](/semana02/aula06/)
 
 #### [06/nov - 11/nov] Semana 3
-- Estrutura Condicionais
-- Funções e arrays
+- [Estrutura de repetição](/semana03/aula07/)
+    [Slides](https://www.canva.com/design/DAFzfJmJrmU/cG5G2UW69H7BLL88Tg-lJA/view?utm_content=DAFzfJmJrmU&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+- [Funções e arrays](/semana03/aula08/)
+    [Slides](https://www.canva.com/design/DAFzqvxERsM/CfdtM3IS5fZ9lyeOg81o4A/view?utm_content=DAFzqvxERsM&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 - Revisão e prática
 
 #### [13/nov - 18/nov] Semana 4
