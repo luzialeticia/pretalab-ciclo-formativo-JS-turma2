@@ -42,8 +42,13 @@ Estamos indo à feira com nossa cesta de compras vazia, mas queremos voltar com 
 
 ---
 
-#### 5. Mais funções!
+#### 5. Callback
 <sub>Funções</sub>
+<sub>[Funções de callback em JS](https://www.freecodecamp.org/portuguese/news/funcoes-de-callback-em-javascript-o-que-sao-e-como-usa-las/)</sub>
 
-#### 4. Callback
-<sub>Funções</sub>
+- Crie uma função para cada operação básica da matemática (somar, subtrair, multiplicar e dividir)
+- Agora uma outra função chamada `calcular` que receberá 3 parâmetros:
+  - Dois números
+  - Uma função que irá realizar a operação entre os dois números
+
+---
