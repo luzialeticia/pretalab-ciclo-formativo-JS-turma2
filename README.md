@@ -24,7 +24,7 @@ Repositório voltado ao módulo de Javascript.
     [Slides](https://www.canva.com/design/DAFzfJmJrmU/cG5G2UW69H7BLL88Tg-lJA/view?utm_content=DAFzfJmJrmU&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 - [Funções e arrays](/semana03/aula08/)
     [Slides](https://www.canva.com/design/DAFzqvxERsM/CfdtM3IS5fZ9lyeOg81o4A/view?utm_content=DAFzqvxERsM&utm_campaign=designshare&utm_medium=link&utm_source=editor)
-- Revisão e prática
+- [Revisão e prática](/semana03/aula09/)
 
 #### [13/nov - 18/nov] Semana 4
 - Interação com DOM
