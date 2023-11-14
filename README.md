@@ -27,7 +27,8 @@ Repositório voltado ao módulo de Javascript.
 - [Revisão e prática](/semana03/aula09/)
 
 #### [13/nov - 18/nov] Semana 4
-- Interação com DOM
+- [Interação com DOM](/semana04/aula10/)
+    [Slides](https://www.canva.com/design/DAF0KeFUlKM/5ky8WNE2BCHiwpwTCx87PA/view?utm_content=DAF0KeFUlKM&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 - Revisão e prática
 
 #### [20/nov - 25/nov] Semana 5
