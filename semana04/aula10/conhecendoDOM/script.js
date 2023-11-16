@@ -19,3 +19,4 @@ console.log(emailInput)
 
 // let email = 'leticia@email.com'
 let email = document.getElementById('emailInput')
+

@@ -42,10 +42,11 @@
         </section>
         <hr />
         <section id="c" class="flex-box">
-            <button class="blue-btns">Legal</button>
-            <button class="blue-btns coxinha">Ok</button>
-            <button class="blue-btns">Bacana</button>
+            <button class="blue-btns" id="buttonLegal">Legal</button>
+            <button class="blue-btns botao-ok">Ok</button>
+            <button class="blue-btns" id="bacana">Bacana</button>
             <a href="site.com" id="link">Meu link</a>
+            <a id="curriculo">Meu currículo</a>
         </section>
         <hr>
         <section id="d">
@@ -56,7 +57,7 @@
                 </label>
                 <label>
                     verde
-                <input type="checkbox"  name="cor" value="verde">
+                <input type="checkbox" name="cor" value="verde">
 
                 </label>
                 <label>
@@ -66,6 +67,7 @@
 
                 <input name="email" placeholder="E-mail" class="email-input" id="emailInput" />
                 <input name="name" placeholder="Nome" />
+                <input name="idade" type="number" placeholder="Idade" value="0" id="idade"/>
                 <textarea name="comment" placeholder="Deixe seu comentário..."></textarea>
                 <button type="submit" class="btns">Enviar</button>
             </form>
