@@ -7,6 +7,7 @@ Hoje nós vamos exercitar!
 </p>
 
 #### 1. Liga e desliga
+<sub>Ver sobre [onClick](https://www.w3schools.com/tags/ev_onclick.asp)</sub>
 
 1. selecione a imagem do documento.
 2. selecione o body do documento. 
