@@ -24,6 +24,7 @@ Hoje nós vamos exercitar!
 ---
 
 #### 3. Criando elementos
+<sub>Ver sobre [createElement](https://developer.mozilla.org/pt-BR/docs/Web/API/Document/createElement) e [appendChild](https://developer.mozilla.org/pt-BR/docs/Web/API/Node/appendChild)</sub>
 A função insertion cria elementos no DOM e para isso recebe três argumentos, o elemento, o ID de um elemento já existente no seu HTML e o texto que será inserido no elemento criado. 
 
 ```
@@ -38,7 +39,7 @@ insertion('p', "conteudo", "Fui criado com Javascript")
 ---
 
 #### 4. Soma de valores
-
+<sub>Ver sobre: [prompt](https://developer.mozilla.org/pt-BR/docs/Web/API/window/prompt) e [alert](https://developer.mozilla.org/pt-BR/docs/Web/API/Window/alert)</sub>
 Vamos pedir para nosso usuário entrar com dois valores distintos e somá-los.
 
 - Retornaremos na tela o resultado da soma entre os dois números.
