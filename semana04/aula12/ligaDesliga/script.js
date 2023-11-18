@@ -8,8 +8,6 @@ background.style.backgroundColor = "red"
 // array de cores e passear entre elas
 
 const changeBg = () => {
-    background.style.backgroundColor = 'black'
-
     if (background.style.backgroundColor == "red") {
         background.style.backgroundColor = "black"
         h1.innerText = "Desligado"
