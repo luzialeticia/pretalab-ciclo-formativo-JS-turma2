@@ -32,8 +32,8 @@ Repositório voltado ao módulo de Javascript.
 - [Revisão e prática](/semana04/aula12/)
 
 #### [20/nov - 25/nov] Semana 5
-- Métodos de Array
-- Filter, map e reduce
+- [Filter, map e reduce](/semana05/aula13/)
+    - [Slides](https://www.canva.com/design/DAF0VpzhD8g/7EL5O3tESUJumu01jpJfsQ/view?utm_content=DAF0VpzhD8g&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 - Revisão e prática
 
 #### [27/nov - 02/dez] Semana 6
