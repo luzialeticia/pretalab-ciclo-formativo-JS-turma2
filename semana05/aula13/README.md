@@ -23,6 +23,7 @@ function dividir(a, b) {
   return a / b
 }
 
+// DECLARAÇÃO
 function calcular(a, b, callback) {
   return callback(a, b)
 }
