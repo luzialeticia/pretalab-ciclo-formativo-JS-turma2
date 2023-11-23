@@ -34,6 +34,8 @@ Repositório voltado ao módulo de Javascript.
 #### [20/nov - 25/nov] Semana 5
 - [Filter, map e reduce](/semana05/aula13/)
     - [Slides](https://www.canva.com/design/DAF0VpzhD8g/7EL5O3tESUJumu01jpJfsQ/view?utm_content=DAF0VpzhD8g&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+- [Eventos](/semana05/aula14/)
+    - [Slides](https://www.canva.com/design/DAF1BEpkKCU/B5BiLp4n-sSxvamWgOE4ug/view?utm_content=DAF1BEpkKCU&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 - Revisão e prática
 
 #### [27/nov - 02/dez] Semana 6
