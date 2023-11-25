@@ -36,7 +36,7 @@ Repositório voltado ao módulo de Javascript.
     - [Slides](https://www.canva.com/design/DAF0VpzhD8g/7EL5O3tESUJumu01jpJfsQ/view?utm_content=DAF0VpzhD8g&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 - [Eventos](/semana05/aula14/)
     - [Slides](https://www.canva.com/design/DAF1BEpkKCU/B5BiLp4n-sSxvamWgOE4ug/view?utm_content=DAF1BEpkKCU&utm_campaign=designshare&utm_medium=link&utm_source=editor)
-- Revisão e prática
+- [Revisão e prática](/semana05/aula15/)
 
 #### [27/nov - 02/dez] Semana 6
 - Projeto final
