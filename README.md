@@ -40,6 +40,7 @@ Repositório voltado ao módulo de Javascript.
 
 #### [27/nov - 02/dez] Semana 6
 - [Projeto final](https://github.com/luzialeticia/pretalab-projeto-final-JS-turma2)
+    - [Exemplos](/semana06/aula17/)
 
 ---
 Feito com amor pela sua profª [Letícia Luzia](https://www.linkedin.com/in/leticialuzia/)
