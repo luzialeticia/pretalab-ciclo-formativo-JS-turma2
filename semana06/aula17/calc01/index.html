@@ -11,10 +11,10 @@
         <form>
             <div class="numbers">
                 <label for="numberA">Número A</label>
-                <input type="number" class="numbers-active" id="numberA" placeholder="Digite um nº inteiro">
+                <input type="number" class="numbers-active" id="numberA" placeholder="Digite um nº inteiro" oninput="calcular()">
 
                 <label for="numberB">Número B</label>
-                <input type="number" class="numbers-active" id="numberB" placeholder="Digite um nº inteiro">
+                <input type="number" class="numbers-active" id="numberB" placeholder="Digite um nº inteiro" oninput="calcular()">
             </div>
 
             <div class="results">
@@ -22,22 +22,23 @@
                 <input type="number" class="results" id="sum" value="" disabled>
 
                 <label for="subtractionA">Subtração: A - B</label>
-                <input type="number" class="results" id="subtractionA" disabled>
+                <input type="number" class="results" id="subtractionA" value="" disabled>
 
                 <label for="subtractionB">Subtração: B - A</label>
-                <input type="number" class="results" id="subtractionB" disabled>
+                <input type="number" class="results" id="subtractionB" value="" disabled>
 
                 <label for="multiplication">Multiplicação: A x B</label>
-                <input type="number" class="results" id="multiplication" disabled>
+                <input type="number" class="results" id="multiplication" value="" disabled>
 
                 <label for="divisionA">Divisão: A ÷ B</label>
-                <input type="number" class="results" id="divisionA" disabled>
+                <input type="number" class="results" id="divisionA" value="" disabled>
 
                 <label for="divisionB">Divisão: B ÷ A</label>
-                <input type="number" class="results" id="divisionB" disabled>
+                <input type="number" class="results" id="divisionB" value="" disabled>
             </div>
         </form>
     </div>
 
+    <script src="./script.js"></script>
 </body>
 </html>
